@@ -19,6 +19,3 @@ uninstall:	### uninstall virtual environment
 
 run:	### run application
 	@venv/bin/python3 main.py
-
-debug:	### run application activating python debugger
-	@venv/bin/python3 main.py --debug
